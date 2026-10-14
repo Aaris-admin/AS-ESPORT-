@@ -1,0 +1,3 @@
+# Uploaded payment proofs and QR images are runtime data, not source.
+assets/uploads/screenshots/*
+!assets/uploads/screenshots/.gitkeep
